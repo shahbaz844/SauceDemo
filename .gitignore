@@ -1,0 +1,14 @@
+# pycharm
+.idea
+node_modules/
+cypress.env.json
+cypress/videos
+cypress/results
+cypress/downloads
+cypress/screenshots
+cypress/.DS_Store
+.DS_Store
+.DS_Store/
+package-lock.json
+allure-results
+allure-report
